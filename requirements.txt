@@ -1,0 +1,9 @@
+faiss-cpu
+arxiv
+sentence-transformers
+transformers
+accelerate
+fastapi
+uvicorn
+numpy
+requests
